@@ -18,5 +18,9 @@ p{
 }
 
 #Blog {
+    border-top: 1px dotted #ccc;
+}
+
+.BlogPost{
     border-bottom: 1px dotted #ccc;
 }
