@@ -1,4 +1,4 @@
-html{
+html {
     background: #e3e3e3;
 }
 body {
@@ -6,7 +6,7 @@ body {
     margin: 40px;
     padding: 40px;
     color: black;
-    border-top: 10 px solid black;
+    border-top: 10px solid black;
 }
 h1{
     font-size: 3em;
