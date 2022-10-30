@@ -28,7 +28,7 @@ p{
 label {
     text-shadow: 1px 2px 2px grey;
 }
-#links {
+.links {
     font-size: 2em;
     color: purple;
 }
