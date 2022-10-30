@@ -12,7 +12,8 @@ body {
 h1{
     font-size: 3em;
     margin: 0;
-    color: darkgray;
+    color: rgb(41, 41, 41);
+    text-shadow: 1px 2px 2px darkgray;
 }
 
 p{
@@ -27,13 +28,15 @@ p{
     border-bottom: 1px dotted rgb(95, 95, 95);
 }
 label {
-    text-shadow: 1px 2px 2px grey;
+    text-shadow: 1px 2px 2px rgb(41, 41, 41);
 }
 #links {
     font-size: 1em;
-    color:darkgray;
+    color:rgb(41, 41, 41);
+
 }
 h2{
-    text-shadow: rgb(19, 19, 19);
-    color: darkgray;
+    text-shadow: 1px 2px 2px darkgray;
+    color: rgb(41, 41, 41);
+    
 }
