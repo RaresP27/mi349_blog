@@ -22,11 +22,16 @@ p{
 
 #Blog {
     border-top: 1px dotted rgb(95, 95, 95);
+    display: flex;
 }
 
 .BlogPost{
     border-bottom: 1px dotted rgb(95, 95, 95);
+    padding: 20px;
+    margin: 20px;
 }
+
+
 label {
     text-shadow: 1px 2px 2px rgb(109, 109, 109);
 }
@@ -43,4 +48,13 @@ h2{
 h3{
     text-shadow: 1px 2px 2px darkgray;
     color: rgb(41, 41, 41);
+}
+
+header {
+    position: sticky;
+    top: 0px;
+}
+
+.RaresPic {
+    float: left;
 }
