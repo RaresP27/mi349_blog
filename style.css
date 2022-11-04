@@ -52,12 +52,12 @@ h3{
 
 header {
     position: sticky;
-    background: white;
+    background: lightslategray;
     top: 0px;
 }
 #links {
     position: sticky;
-    background: white;
+    background: lightslategray;
     top: 55px;
 }
 
