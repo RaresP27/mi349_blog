@@ -20,6 +20,10 @@ p{
     line-height: 1.5em;
 }
 
+.hobbies {
+    margin-left: 10px;
+}
+
 #Blog {
     border-top: 1px dotted rgb(95, 95, 95);
     display: flex;
