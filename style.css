@@ -62,7 +62,7 @@ header {
 }
 
 .Spicebomb {
-    float: left;
-    margin-left: 210px;
-    margin-right: 210px;
+    float: right;
+    margin-left: 220px;
+    margin-right: 220px;
 }
