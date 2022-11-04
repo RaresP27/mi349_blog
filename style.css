@@ -20,10 +20,6 @@ p{
     line-height: 1.5em;
 }
 
-.hobbies {
-    margin-left: 100px;
-}
-
 #Blog {
     border-top: 1px dotted rgb(95, 95, 95);
     display: flex;
@@ -67,6 +63,6 @@ header {
 
 .Spicebomb {
     float: left;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 210px;
+    margin-right: 210px;
 }
