@@ -52,13 +52,8 @@ h3{
 
 header {
     position: sticky;
-    background: lightslategray;
+    background: rgb(80, 84, 88);
     top: 0px;
-}
-#links {
-    position: sticky;
-    background: lightslategray;
-    top: 55px;
 }
 
 .RaresPic {
