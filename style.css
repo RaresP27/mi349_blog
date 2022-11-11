@@ -66,3 +66,12 @@ header {
     margin-left: 200px;
     margin-right: 300px;
 }
+
+@media (max-width: 400px) {
+    #Blog {
+        flex-direction: column;
+    }
+    .Spicebomb {
+        float: left;
+    }
+}
