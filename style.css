@@ -61,9 +61,6 @@ header {
     margin-right: 20px;
 }
 
-.Spicebomb {
-    float: left;
-}
 
 @media (max-width: 400px) {
     #Blog {
