@@ -68,9 +68,6 @@ header {
 }
 
 @media (max-width: 600px) {
-    .BlogPost {
-        flex-direction: column;
-    }
     .Spicebomb {
         float: left;
     }
