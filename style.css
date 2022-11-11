@@ -62,7 +62,7 @@ header {
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     #Blog {
         display:flex;
         flex-direction: column;
